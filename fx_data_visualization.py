@@ -2,9 +2,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import streamlit as st
 import plotly.express as px
-from matplotlib.font_manager import FontProperties
-font_path = 'TakaoPGothic.ttf'
-font_property = FontProperties(fname= font_path)
 import plotly.graph_objects as go
 
 
